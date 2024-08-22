@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FocusTasks</string>
+
+    <string name="app_first_starting_screen_text">Your ultimate productivity partner. Organize, prioritize, and manage your tasks with ease.\n
+\n\nExperience a streamlined interface designed for efficiency, and stay on top of your goals with our intuitive task management features.</string>
+    <string name="app_second_starting_screen_text">Task Management: Add, edit, and complete tasks easily.\n\n
+Custom Lists: Organize tasks to fit your needs.\n\n
+Smart Reminders: Never miss a deadline.</string>
+</resources>
